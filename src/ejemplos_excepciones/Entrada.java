@@ -4,7 +4,7 @@ import java.io.*;
 
 public class Entrada {
 	static String inicializar() {
-		String buzon = "";
+		String buzon = "aaa";
 		InputStreamReader flujo = new InputStreamReader(System.in);
 		BufferedReader teclado = new BufferedReader(flujo);
 		try {
